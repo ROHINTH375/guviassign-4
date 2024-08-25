@@ -1,0 +1,14 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+input[type="radio"] {
+    margin-right: 8px;
+}
